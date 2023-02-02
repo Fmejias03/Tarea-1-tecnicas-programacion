@@ -15,6 +15,7 @@ class Pregunta2 {
         System.out.println("Algortimos de grafos");
         System.out.println("Algoritmos de programacion dinamica");
     }
+}
 
 
 
