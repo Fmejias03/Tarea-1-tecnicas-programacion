@@ -1,6 +1,10 @@
 # Tarea-1-tecnicas-programacion
 Tarea 1 Técnicas Programación 
 
+## Nota:
+Mi repositorio: https://github.com/Fmejias03/Tarea-1-tecnicas-programacion.git
+
+
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:__
 
